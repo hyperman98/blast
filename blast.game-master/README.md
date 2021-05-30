@@ -1,6 +1,6 @@
 # Головоломка с механикой Blast
 
-https://mohnatus.github.io/blast-game/
+https://github.com/hyperman98/blast/
 
 ## Описание общей механики игры
 
